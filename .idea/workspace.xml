@@ -161,7 +161,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547787334286" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547787899402" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -178,7 +178,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JavaClass2">
+  <component name="RunManager" selected="Application.Cybertek">
+    <configuration name="Cybertek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cybertek" />
+      <module name="MyFirstGitRepoFall2018" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="MyFirstGitRepoFall2018" />
@@ -196,9 +203,11 @@
     <list>
       <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Application.JavaClass2" />
+      <item itemvalue="Application.Cybertek" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cybertek" />
         <item itemvalue="Application.JavaClass2" />
         <item itemvalue="Application.HelloWorld" />
       </list>
